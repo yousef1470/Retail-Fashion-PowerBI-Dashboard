@@ -8,10 +8,11 @@ This project delivers actionable insights into customer demographics, sales perf
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](Dashboards/Overview Dashboard.png)
-![Dashboard Sales Performance](Dashboards/Sales Performance.png)
-![Dashboard Product Analysis](Dashboards/Product Analysis.png)
-![Dashboard Customer Analysis](Dashboards/Customer Analysis.png)
+![Dashboard Overview](Dashboards/overview_dashboard.png)  
+![Dashboard Sales Performance](Dashboards/sales_performance.png)  
+![Dashboard Product Analysis](Dashboards/product_analysis.png)  
+![Dashboard Customer Analysis](Dashboards/customer_analysis.png)  
+
 
 
 ---
@@ -62,7 +63,7 @@ This project delivers actionable insights into customer demographics, sales perf
   - Optimized model for **performance and scalability** with 6.4M+ transaction rows.
 
  ### 📐 Data Model Diagram
-![Data Model Diagram](Data Modeling/Data Modeling.png)
+![Data Model Diagram](dashboard/data_model.png)
 
 ---
 
