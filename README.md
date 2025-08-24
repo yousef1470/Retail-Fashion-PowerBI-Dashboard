@@ -8,8 +8,8 @@ This project delivers actionable insights into customer demographics, sales perf
 ## 📸 Dashboard Preview
 ![Overview](Dashboards/Overview-Dashboard.png)
 ![Sales Performance](Dashboards/Sales-Performance.png)
-![Product Analysis](Dashboards/Product-Analysis.png)
 ![Customer Analysis](Dashboards/Customer-Analysis.png)
+![Product Analysis](Dashboards/Product-Analysis.png)
 
 
 
