@@ -1,5 +1,3 @@
-# Retail-Analytics-PowerBI-Dashboard
-=======
 # 👗 GLAMORA Fashion Dashboard
 
 An interactive Power BI dashboard with a custom visual identity designed from scratch.  
@@ -42,6 +40,12 @@ This project delivers actionable insights into customer demographics, sales perf
 
 ---
 
+## 🎨 Moodboard
+To establish a consistent **visual identity**, a moodboard was designed from scratch.  
+It defines the **color palette, typography, and overall aesthetic direction** for the dashboards.  
+
+![Moodboard](Mood-Board/MoodBorad.png)
+
 ## 🗂 Data Overview
 - Customers → 1.64M records  9 fields (ID, Name, Email, City, Country, Gender, DOB, Job Title…)
 - Discounts → 181 records  6 fields (Start, End, Discount %, Description, Category, Sub-category)
@@ -64,7 +68,7 @@ This project delivers actionable insights into customer demographics, sales perf
   - Optimized model for **performance and scalability** with 6.4M+ transaction rows.
 
  ### 📐 Data Model Diagram
-![Data Model](dashboard/model.png)
+![Data Model](Data-Modeling/Data-Modeling.png)
 
 ---
 
