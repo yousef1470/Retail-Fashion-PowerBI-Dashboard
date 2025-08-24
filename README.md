@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Retail-Analytics-PowerBI-Dashboard
 =======
 # 👗 GLAMORA Fashion Dashboard
@@ -9,9 +8,11 @@ This project delivers actionable insights into customer demographics, sales perf
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboarddashboard-preview.png)
+![Dashboard Overview](Dashboards/Overview Dashboard.png)
+![Dashboard Sales Performance](Dashboards/Sales Performance.png)
+![Dashboard Product Analysis](Dashboards/Product Analysis.png)
+![Dashboard Customer Analysis](Dashboards/Customer Analysis.png)
 
- 🔹 Replace `dashboarddashboard-preview.png` with the actual screenshot of your dashboard.
 
 ---
 
@@ -20,6 +21,15 @@ This project delivers actionable insights into customer demographics, sales perf
 - Create a complete visual identity (moodboard, color palette, and dashboard theme) from scratch for a consistent and modern look.
 - Provide clear insights into customer behavior, sales trends, and product performance.
 - Support smarter business strategies with data-driven recommendations.
+
+---
+
+## 🛠 Skills & Tools Used
+- **Power BI** – Dashboard design, data visualization, DAX calculations.  
+- **Power Query** – Data cleaning, transformations, and preprocessing.  
+- **Data Modeling** – Relationships, calculated tables, and measures. 
+- **Data Analysis** – Business insights, trend analysis, customer segmentation.  
+- **Design & Branding** – Visual identity creation, moodboard, custom color palette.  
 
 ---
 
@@ -41,10 +51,18 @@ This project delivers actionable insights into customer demographics, sales perf
 ---
 
 ## 🛠 Data Preparation & Modeling
-- Cleaned data in Power Query (DOB → Age, created age groups, removed 798 duplicate transactions).
-- Built DateTable (Year, Month, Quarter, Week, Day, IsWeekend).
-- Built ExchangeRates table for currency normalization.
-- Established relationships between Customers, Products, Stores, Employees, Transactions, Discounts.
+- **Data Cleaning & Transformation** in Power Query:  
+  - Converted **Date of Birth → Age** and created **Age Groups**.  
+  - Removed **798 duplicate transactions**.  
+- **Date Table**: Created a custom calendar with Year, Month, Quarter, Week, Day, and IsWeekend columns.  
+- **Exchange Rates Table**: Built with USD base + currency symbols for normalized revenue reporting.  
+- **Data Modeling**:  
+  - Established star-schema relationships between **Customers, Products, Stores, Employees, Transactions, Discounts**.  
+  - Created **calculated measures & DAX formulas** to support KPIs like revenue, sales by category, seasonal performance, and customer segmentation.  
+  - Optimized model for **performance and scalability** with 6.4M+ transaction rows.
+
+ ### 📐 Data Model Diagram
+![Data Model Diagram](Data Modeling/Data Modeling.png)
 
 ---
 
@@ -75,10 +93,12 @@ This project delivers actionable insights into customer demographics, sales perf
   - Launch promotions tailored for weekends.  
 - Market Penetration  
   - Strengthen presence in US and China.  
-- Category Investment  
+- Category Investment
   - Focus on BlazersFormal Wear, Jeans & Pants, Sports Wear.  
 
 ---
 
-## 📁 Repository Structure
->>>>>>> 577694a (Upload Project)
+## 🙌 Acknowledgment
+This project was completed as the **final internship project at Exology**.  
+It demonstrates advanced **data analysis, visualization, and dashboard design** in **Power BI**.  
+The **visual identity and design system were built entirely from scratch** to ensure a unique and professional presentation.
