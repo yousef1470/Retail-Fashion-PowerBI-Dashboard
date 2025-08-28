@@ -46,6 +46,12 @@ It defines the **color palette, typography, and overall aesthetic direction** fo
 
 ![Moodboard](Mood-Board/MoodBorad.png)
 
+## 📂 Dataset
+You can download the dataset here:  
+[Download dataset.zip](https://github.com/yousef1470/Retail-Fashion-PowerBI-Dashboard/releases/download/v1.0/Data.zip)
+
+---
+
 ## 🗂 Data Overview
 - Customers → 1.64M records  9 fields (ID, Name, Email, City, Country, Gender, DOB, Job Title…)
 - Discounts → 181 records  6 fields (Start, End, Discount %, Description, Category, Sub-category)
