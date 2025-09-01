@@ -11,8 +11,11 @@ This project delivers actionable insights into customer demographics, sales perf
 ![Customer Analysis](Dashboards/Customer-Analysis.png)
 ![Product Analysis](Dashboards/Product-Analysis.png)
 
+---
 
+## 🎥 Demo
 
+https://github.com/user-attachments/assets/b63c5e97-29b4-4ec8-a704-0bcdc8818eb6
 
 ---
 
